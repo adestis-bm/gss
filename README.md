@@ -1,0 +1,2 @@
+# gss
+Golang Secure Strings
